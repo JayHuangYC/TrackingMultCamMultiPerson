@@ -1,0 +1,64 @@
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.Properties.Resources.resources
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.csproj.GenerateResource.Cache
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\bin\Debug\PeopleDetection.exe
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\bin\Debug\PeopleDetection.pdb
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\bin\Debug\Emgu.CV.dll
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\bin\Debug\Emgu.CV.UI.dll
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\bin\Debug\Emgu.Util.dll
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\bin\Debug\zlib.net.dll
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.exe
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.pdb
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.Main.resources
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.pdb
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\PeopleDetection.exe
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\PeopleDetection.pdb
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\Emgu.CV.dll
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\Emgu.CV.UI.dll
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\Emgu.Util.dll
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\ZedGraph.dll
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\zlib.net.dll
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.Main.resources
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.Properties.Resources.resources
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.csproj.GenerateResource.Cache
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.exe
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.exe
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.pdb
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.Main.resources
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.Properties.Resources.resources
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.csproj.GenerateResource.Cache
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\PeopleDetection.exe
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\PeopleDetection.pdb
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\zlib.net.dll
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.pdb
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\PeopleDetection.exe
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\PeopleDetection.pdb
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\Emgu.CV.dll
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\Emgu.CV.UI.dll
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\Emgu.Util.dll
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\ZedGraph.dll
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\zlib.net.dll
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.Main.resources
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.Properties.Resources.resources
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.csproj.GenerateResource.Cache
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\PeopleDetection\obj\Debug\PeopleDetection.exe
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\ZedGraph.xml
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\ZedGraph.xml
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\Work\NUS\2010-11 Sem1\Credit Courses\Computer Vision and Pattern Recognition\Project\OurCode\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\Emgu.CV.dll
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\Emgu.CV.UI.dll
+C:\Documents and Settings\g0800143\My Documents\Visual Studio 2008\Projects\PeopleDetection\PeopleDetection\PeopleDetection\bin\Debug\Emgu.Util.dll
